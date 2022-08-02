@@ -1,0 +1,57 @@
+.logo{
+    width: 65px;
+    height: 35px;
+    
+}
+*{
+   overflow-x: hidden; 
+}
+.first-img{
+    height: auto;
+    width:100%;
+    
+   
+}
+.fimg-button{
+    margin-top: 545px;
+    margin-left: 135px;
+}
+body{
+    margin: 10px;
+}
+.scnd-img{
+    height: auto;
+    width:100%;
+    background-position: center;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 2em;
+}
+.third-img{
+    height: auto;
+    width:100%;
+    background-position: center;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 3em;
+}
+.qwer{
+    text-align: center;
+}
+.fdiv{
+    margin-top: 40px;
+}
+.engine{
+    margin-top: 15px;
+}
+.footer{
+    height: 30px;
+    width: 100%;
+    background-color: rgb(93, 93, 93);
+    
+
+}
+.foot{
+    margin-left: 45%;
+    max-width: max-content;
+}
